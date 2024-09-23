@@ -108,7 +108,7 @@ nav a:hover {
 
 body {
     min-height: 100vh;
-    background: url('images/background-honeycomb.jpg') no-repeat;
+    background: url('background-honeycomb.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
